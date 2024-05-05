@@ -29,4 +29,16 @@
         android:orientation="vertical"
         app:layout_constraintGuide_percent="0.5" />
 
+    <Button
+        android:id="@+id/buttonShowProgramId"
+        android:layout_width="252dp"
+        android:layout_height="84dp"
+        android:text="@string/show_programs_button"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/welcome_pageId"
+        app:layout_constraintVertical_bias="0.212" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
