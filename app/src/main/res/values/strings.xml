@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Bldg24MobileApp</string>
     <string name="welcome_page">Welcome to Building 24!</string>
+    <string name="show_programs_button">Show Programs Information</string>
 </resources>
