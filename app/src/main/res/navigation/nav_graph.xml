@@ -8,7 +8,11 @@
     <fragment
         android:id="@+id/welcomeFragment"
         android:name="com.example.bldg24mobileapp.WelcomeFragment"
-        android:label="WelcomeFragment" />
+        android:label="WelcomeFragment" >
+        <action
+            android:id="@+id/action_welcomeFragment_to_programsFragment"
+            app:destination="@id/programsFragment" />
+    </fragment>
     <fragment
         android:id="@+id/programsFragment"
         android:name="com.example.bldg24mobileapp.ProgramsFragment"
