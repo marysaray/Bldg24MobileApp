@@ -5,4 +5,5 @@
     <string name="show_programs_button">Show Program Information</string>
     <string name="programs_fragment">Building 24 List of Programs</string>
     <string name="view_map_button">View Map</string>
+    <string name="map_fragment">Map Image Here</string>
 </resources>

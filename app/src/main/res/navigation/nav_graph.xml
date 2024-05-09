@@ -17,5 +17,14 @@
         android:id="@+id/programsFragment"
         android:name="com.example.bldg24mobileapp.ProgramsFragment"
         android:label="fragment_programs"
-        tools:layout="@layout/fragment_programs" />
+        tools:layout="@layout/fragment_programs" >
+        <action
+            android:id="@+id/action_programsFragment_to_mapFragment"
+            app:destination="@id/mapFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/mapFragment"
+        android:name="com.example.bldg24mobileapp.MapFragment"
+        android:label="fragment_map"
+        tools:layout="@layout/fragment_map" />
 </navigation>
