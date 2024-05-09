@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Bldg24MobileApp</string>
     <string name="welcome_page">Welcome to Building 24!</string>
-    <string name="show_programs_button">Show Programs Information</string>
+    <string name="view_programs">View Programs</string>
+    <string name="show_programs_button">Show Program Information</string>
     <string name="programs_fragment">Building 24 List of Programs</string>
+    <string name="view_map_button">View Map</string>
 </resources>

@@ -30,7 +30,7 @@
         android:id="@+id/buttonShowProgramId"
         android:layout_width="252dp"
         android:layout_height="84dp"
-        android:text="@string/show_programs_button"
+        android:text="@string/view_programs"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
