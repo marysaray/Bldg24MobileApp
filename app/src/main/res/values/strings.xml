@@ -6,4 +6,13 @@
     <string name="programs_fragment">Building 24 List of Programs</string>
     <string name="view_map_button">View Map</string>
     <string name="map_fragment">Map Image Here</string>
+    <string name="program_info">"Please choose an option: You can learn more about different programs in Building 24 or view the current floor plan."</string>
+    <string name="program_list">List of Programs</string>
+    <string-array name="program_names">
+        <item>Computer Programming</item>
+        <item>Manufacturing Engineering Technologies</item>
+        <item>Mechatronics</item>
+        <item>Nondestructive Testing</item>
+        <item>Network Operations and System Security</item>
+    </string-array>
 </resources>
