@@ -70,6 +70,21 @@ class ProgramsFragment : Fragment() {
                     "Students prepare for careers involving the protection of information" +
                     "on computers and networks against unauthorized access or modification" +
                     "of information and the denial of service to authorized users.")
+            "Bachelor of Applied Science in Cybersecurity" -> listOf("Upon successful completion of the Bachelor of Applied Science in Cybersecurity, students will be able to: " +
+                    "Assess the cyber risk of an information system and recommend mitigation.\n","Analyze identified malicious activity in order to mitigate effects and recommend security improvements. " +
+                    "Create a cybersecurity vulnerability assessment of a small to medium business.\n\n" +
+                    "Evaluate the security practices of an application/ IT project development team at any point in the system lifecycle " +
+                    "Implement security software or hardware.\n\n" +
+                    "Research offensive and defensive cybersecurity trends and tools. " +
+                    "Evaluate cloud security in public, private, and hybrid environments.")
+            "Bachelor of Applied Science in Mechatronics Engineering Technology and Automation (META)" -> listOf("CPTC’s Bachelor of Applied Science in Mechatronics Engineering Technology and Automation (BAS-META) degree " +
+                    "is the first Bachelor’s degree in mechatronics to be offered anywhere in the Pacific NW.\n","Mechatronics focuses on the convergence of mechanical engineering, electrical engineering and computer controls " +
+                    "in complex systems and automation.\n\n" +
+                    "The BAS-META builds upon associate degree coursework by adding additional " +
+                    "engineering math and physics, as well as hands-on work with cutting edge industrial technology " +
+                    "and practices such as IIOT, Digital Twins, Sustainable Manufacturing, and Data Analytics.\n\n" +
+                    "The BAS-META degree is for students who want to become: Automation engineers, Applications Engineers, " +
+                    "Robotic Integrators, PLC Programmers, and a host of other engineering technology related job titles.")
             else -> listOf("Please choose an option"
                 , "You can learn more about different programs in Building 24 or view the current floor plan.")
         }
