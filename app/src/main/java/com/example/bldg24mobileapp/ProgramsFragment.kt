@@ -38,16 +38,16 @@ class ProgramsFragment : Fragment() {
         return when (program) {
             "Computer Programming" -> listOf("Why Choose the Computer Programming Program?\n"
                 , "Computer Programming is challenging, fun, and can change the world. " +
-                    "Technology is an integral part of every person's life, and every business runs on software.\n\n" +
+                    "Technology is an integral part of every person's life and every business runs on software.\n\n" +
                     "If you like technology, solving problems and learning and want a career field that's growing " +
                     "and will be around for a very long time then this program might be the perfect fit.")
             "Manufacturing Engineering Technologies" -> listOf("Why Choose the Manufacturing Engineering Technologies Program?\n"
-                , "Graduates of the Manufacturing Engineering Technologies (MET) degree" +
-                    " & certificate programs are industry-ready professionals with the knowledge" +
-                    " & skills to increase domestic and global manufacturing efficiency.\n\n" +
+                , "Graduates of the Manufacturing Engineering Technologies (MET) degree " +
+                    "& certificate programs are industry-ready professionals with the knowledge " +
+                    "& skills to increase domestic and global manufacturing efficiency.\n\n" +
                     "These skills focus on the entire manufacturing processes of components and assemblies throughout a factory, " +
-                    "from raw material to finished products. To accomplish this, students will learn & practically-apply innovative" +
-                    " manufacturing engineering techniques.")
+                    "from raw material to finished products. To accomplish this, students will learn & practically-apply innovative " +
+                    "manufacturing engineering techniques.")
             "Mechatronics" -> listOf("Why Choose the Mechatronics Program?\n"
                 , "Mechatronics is a multidisciplinary field combining mechanical, " +
                     "electrical, telecommunications, control and computer engineering " +
@@ -65,8 +65,8 @@ class ProgramsFragment : Fragment() {
                     "of a material or structure without causing damage.")
             "Network Operations and System Security" -> listOf("Why Choose the Network Operations & System Security (NOSS) Program? \n "
                 ,   "The NOSS program prepares students to pursue careers " +
-                    "in a variety of entry- to mid-level positions including, " +
-                    "but not limited to, help desk, network system administration, and cyber security.\n\n" +
+                    "in a variety of entry-to mid-level positions including, " +
+                    "but not limited to, help desk, network system administration, and cybersecurity.\n\n" +
                     "Students prepare for careers involving the protection of information " +
                     "on computers and networks against unauthorized access or modification " +
                     "of information and the denial of service to authorized users.")
@@ -83,7 +83,7 @@ class ProgramsFragment : Fragment() {
                     "The BAS-META builds upon associate degree coursework by adding additional " +
                     "engineering math and physics, as well as hands-on work with cutting edge industrial technology " +
                     "and practices such as IIOT, Digital Twins, Sustainable Manufacturing, and Data Analytics.\n\n" +
-                    "The BAS-META degree is for students who want to become: Automation engineers, Applications Engineers, " +
+                    "The BAS-META degree is for students who want to become: Automation Engineers, Applications Engineers, " +
                     "Robotic Integrators, PLC Programmers, and a host of other engineering technology related job titles.")
             else -> listOf("Please choose an option"
                 , "You can learn more about different programs in Building 24 or view the current floor plan.")
