@@ -50,25 +50,25 @@ class ProgramsFragment : Fragment() {
                     " manufacturing engineering techniques.")
             "Mechatronics" -> listOf("Why Choose the Mechatronics Program?\n"
                 , "Mechatronics is a multidisciplinary field combining mechanical, " +
-                    "electrical, telecommunications, control and computer engineering" +
-                    "and focusing on the design and production of automated equipment.\n\n" +
+                    "electrical, telecommunications, control and computer engineering " +
+                    "focusing on the design and production of automated equipment.\n\n" +
                     "Trained mechatronics professionals design and drive the future of industry, " +
                     "as mechatronics systems form the backbone of every computer-controlled machine " +
                     "and sophisticated consumer product. \n\n")
             "Nondestructive Testing" -> listOf("Why Choose the Nondestructive Testing Program?\n"
-                , "Nondestructive testing is a valuable process used in fields such as construction," +
-                    "manufacturing, civil engineering and transportation because it does not impair the usefulness" +
+                , "Nondestructive testing is a valuable process used in fields such as construction, " +
+                    "manufacturing, civil engineering and transportation because it does not impair the usefulness " +
                     "of the object being inspected.\n\n" +
                     "Nondestructive testing techniques are used to examine structures or vehicles such as bridges, " +
                     "dams, pipelines, aircraft, trains and nuclear reactors.\n\n" +
-                    "Our NDT program provides training in a variety of these analysis techniques used to evaluate the properties" +
+                    "Our NDT program provides training in a variety of these analysis techniques used to evaluate the properties " +
                     "of a material or structure without causing damage.")
             "Network Operations and System Security" -> listOf("Why Choose the Network Operations & System Security (NOSS) Program? \n "
                 ,   "The NOSS program prepares students to pursue careers " +
                     "in a variety of entry- to mid-level positions including, " +
                     "but not limited to, help desk, network system administration, and cyber security.\n\n" +
-                    "Students prepare for careers involving the protection of information" +
-                    "on computers and networks against unauthorized access or modification" +
+                    "Students prepare for careers involving the protection of information " +
+                    "on computers and networks against unauthorized access or modification " +
                     "of information and the denial of service to authorized users.")
             "Bachelor of Applied Science in Cybersecurity" -> listOf("Upon successful completion of the Bachelor of Applied Science in Cybersecurity, students will be able to: " +
                     "Assess the cyber risk of an information system and recommend mitigation.\n","Analyze identified malicious activity in order to mitigate effects and recommend security improvements. " +
