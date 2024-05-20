@@ -1,4 +1,5 @@
-## Mobile App Design 
+## Building 24 @ Clover Park Technical College Mobile App Design 
+*Created a personal project for Phone Programming with Kotlin Programming Language on Android Studio IDE: https://developer.android.com/studio*
 
 ```
 Bldg 24 Map App
