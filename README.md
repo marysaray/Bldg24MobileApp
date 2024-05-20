@@ -10,7 +10,6 @@ Bldg 24 Map App
 2. Page 2 is a Pin-Wheel Option
 2.1 List of all Programs in Bldg. 24 
 2.2 Each selection will show a brief of description of the selected program
-2.3 Each programs will have a description of info session date, time and location
 ----------------------------------------------------------------------------------
 3. Page 3 will be a floor plan map of both the first floor and second floor
 ```
