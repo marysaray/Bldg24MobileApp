@@ -1,5 +1,5 @@
 ## Building 24 @ Clover Park Technical College Mobile App Design 
-*Created a personal project for Phone Programming with Kotlin Programming Language on Android Studio IDE: https://developer.android.com/studio*
+Created a personal project for Phone Programming with Kotlin Programming Language on Android Studio IDE: https://developer.android.com/studio
 
 ```
 Bldg 24 Map App
@@ -14,6 +14,7 @@ Bldg 24 Map App
 ----------------------------------------------------------------------------------
 3. Page 3 will be a floor plan map of both the first floor and second floor
 ```
+*Images of Application Below:* 
 ![FirstFragmentWelcomePage](https://github.com/marysaray/Bldg24MobileApp/assets/82470838/8f7c810a-08d0-4d58-8899-b3ed1856b292)
 ![SecondFragmentChooseProgramPage](https://github.com/marysaray/Bldg24MobileApp/assets/82470838/9f96e6a2-cb28-4364-8ebd-37785e0df098)
 ![PinwheelListAllPrograms](https://github.com/marysaray/Bldg24MobileApp/assets/82470838/d5428fbb-ca04-4f70-8974-f5e191c91fac)
